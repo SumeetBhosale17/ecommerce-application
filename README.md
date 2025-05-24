@@ -1,4 +1,4 @@
-S# 🛒 E-Commerce Application
+# 🛒 E-Commerce Application
 
 ![Java](https://img.shields.io/badge/Java-24-blue.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-5.7+-lightgrey.svg)
