@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Application
+S# 🛒 E-Commerce Application
 
 ![Java](https://img.shields.io/badge/Java-24-blue.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-5.7+-lightgrey.svg)
@@ -101,39 +101,39 @@ This system allows customers to browse and purchase products, while admins can m
 ## 📸 Screenshots
 ### 🔐 User Authentication
 - **Login Page**
-![Product View](screenshots/login.png)
+![Product View](Screenshots/login.png)
 - **Registration Page**
-![Product View](screenshots/register.png)
+![Product View](Screenshots/register.png)
 ### 🖥 Product Browsing
-![Product View](screenshots/products.png)
+![Product View](Screenshots/products.png)
 
 ### 🛒 Cart & Checkout
-![Cart View](screenshots/cart.png)
+![Cart View](Screenshots/cart.png)
 
 ### ❤️ Wishlist
-![Cart View](screenshots/wishlist.png)
+![Cart View](Screenshots/wishlist.png)
 
 ### 🛎 Notifications
-![Cart View](screenshots/notification.png)
+![Cart View](Screenshots/notification.png)
 
 ### 📩 Order Receipt PDF
-![Receipt PDF](screenshots/receipt.png)
+![Receipt PDF](Screenshots/receipt.png)
 
 ### 📩 Email
-![Receipt PDF](screenshots/email.png)
+![Receipt PDF](Screenshots/email.png)
 
 ### ⚙️ Admin Product Panel
 - **Product Management**
-![Admin Panel](screenshots/pm.png)
+![Admin Panel](Screenshots/pm.png)
 
 - **Category Management**
-![Admin Panel](screenshots/cm.png)
+![Admin Panel](Screenshots/cm.png)
 
 - **Orders**
-![Admin Panel](screenshots/orders.png)
+![Admin Panel](Screenshots/orders.png)
 
 - **Sales Report**
-![Admin Panel](screenshots/report.png)
+![Admin Panel](Screenshots/report.png)
 
 ---
 
