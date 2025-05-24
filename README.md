@@ -99,50 +99,36 @@ This system allows customers to browse and purchase products, while admins can m
 ---
 
 ## 📸 Screenshots
-<div>
+<div align = "center">
    <h3>🔐 User Authentication</h3>
    <div align="center">
    <h4 align="center">Login Page</h4>
-   <img src="Screenshots/login.png" align="center" height="300" style="border-radius: 10px;">
+   <img src="Screenshots/login.png" height="300" style="border-radius: 10px;">
    <h4 align="center">Registration Page</h4>
-   <img src="Screenshots/register.png" align="center" height="300" style="border-radius: 10px;">
+   <img src="Screenshots/register.png" height="300" style="border-radius: 10px;">
    </div>
+   <h3>🖥 Product Browsing</h3>
+   <img src="Screenshots/products.png" height="300" style="border-radius: 10px;">
+   <h3>🛒 Cart & Checkout</h3>
+   <img src="Screenshots/cart.png" height="300" style="border-radius: 10px;">
+   <h3>❤️ Wishlist</h3>
+   <img src="Screenshots/wishlist.png" height="300" style="border-radius: 10px;">
+   <h3>🛎 Notifications</h3>
+   <img src="Screenshots/notification.png" height="300" style="border-radius: 10px;">
+   <h3>📩 Order Receipt PDF</h3>
+   <img src="Screenshots/receipt.png" height="300" style="border-radius: 10px;">
+   <h3>📩 Email</h3>
+   <img src="Screenshots/email.png" height="300" style="border-radius: 10px;">
+   <h3>⚙️ Admin Product Panel</h3>
+      <h4>Product Management</h4>
+      <img src="Screenshots/pm.png" height="300" style="border-radius: 10px;">
+      <h4>Product Management</h4>
+      <img src="Screenshots/cm.png" height="300" style="border-radius: 10px;">
+      <h4>Product Management</h4>
+      <img src="Screenshots/orders.png" height="300" style="border-radius: 10px;">
+      <h4>Product Management</h4>
+      <img src="Screenshots/report.png" height="300" style="border-radius: 10px;">
 </div>
-
-### 🖥 Product Browsing
-![Product View](Screenshots/products.png)
-
-### 🛒 Cart & Checkout
-![Cart View](Screenshots/cart.png)
-
-### ❤️ Wishlist
-![Cart View](Screenshots/wishlist.png)
-
-### 🛎 Notifications
-![Cart View](Screenshots/notification.png)
-
-### 📩 Order Receipt PDF
-![Receipt PDF](Screenshots/receipt.png)
-
-### 📩 Email
-![Receipt PDF](Screenshots/email.png)
-
-### ⚙️ Admin Product Panel
-<h4 align="center">Product Management</h4>
-
-![Admin Panel](Screenshots/pm.png)
-
-<h4 align="center">Category Management</h4>
-
-![Admin Panel](Screenshots/cm.png)
-
-<h4 align="center">Orders</h4>
-
-![Admin Panel](Screenshots/orders.png)
-
-<h4 align="center">Sales Report</h4>
-
-![Admin Panel](Screenshots/report.png)
 
 ---
 
