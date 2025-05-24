@@ -99,13 +99,16 @@ This system allows customers to browse and purchase products, while admins can m
 ---
 
 ## 📸 Screenshots
-### 🔐 User Authentication
-- **Login Page**
+<div>
+   <h3>🔐 User Authentication</h3>
+   <div align="center">
+   <h4 align="center">Login Page</h4>
+   <img src="Screenshots/login.png" align="center" height="300" style="border-radius: 10px;">
+   <h4 align="center">Registration Page</h4>
+   <img src="Screenshots/register.png" align="center" height="300" style="border-radius: 10px;">
+   </div>
+</div>
 
-![Product View](Screenshots/login.png)
-- **Registration Page**
-  
-![Product View](Screenshots/register.png)
 ### 🖥 Product Browsing
 ![Product View](Screenshots/products.png)
 
@@ -125,16 +128,20 @@ This system allows customers to browse and purchase products, while admins can m
 ![Receipt PDF](Screenshots/email.png)
 
 ### ⚙️ Admin Product Panel
-- **Product Management**
+<h4 align="center">Product Management</h4>
+
 ![Admin Panel](Screenshots/pm.png)
 
-- **Category Management**
+<h4 align="center">Category Management</h4>
+
 ![Admin Panel](Screenshots/cm.png)
 
-- **Orders**
+<h4 align="center">Orders</h4>
+
 ![Admin Panel](Screenshots/orders.png)
 
-- **Sales Report**
+<h4 align="center">Sales Report</h4>
+
 ![Admin Panel](Screenshots/report.png)
 
 ---
