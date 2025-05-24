@@ -101,8 +101,10 @@ This system allows customers to browse and purchase products, while admins can m
 ## 📸 Screenshots
 ### 🔐 User Authentication
 - **Login Page**
+
 ![Product View](Screenshots/login.png)
 - **Registration Page**
+  
 ![Product View](Screenshots/register.png)
 ### 🖥 Product Browsing
 ![Product View](Screenshots/products.png)
